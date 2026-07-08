@@ -16,14 +16,6 @@ The room is provided empty with only essential equipment:
 - Bed
 - Mattress
 - Chair
-- Other basic facilities
-
-
-
-Dormitory Facilities
-
-Dormitories include essential shared equipment such as:
-
 - Microwaves
 - Electric stoves
 - Other necessary facilities
@@ -34,68 +26,98 @@ Spari Market
 
 A Spari market is located in the F Dormitory.
 
-Opening hours:
-09:00 - 24:00
+Opening hours: 09:00 - 24:00
 
 
 
-Transportation from Dormitory to University
+Transportation Dormitory - University
 
-Minibuses travel from the dormitory to the university buildings (A and K buildings).
+Minibuses travel in circle, from dorms to university and vice versa.
 
-Departure times:
-:40
-:45
-:50
-:55
+Departure times: :40-:00
 
-Students can also walk to the university.
-
+Students can also walk to the university. Dorms are about 1km away from university and walking takes 20-30min.
 
 
 Laundry Facilities
 
 Washing machines and drying machines are available on the -1 floor of the dormitory.
 
+odd numbered rooms have a view of lake
 
+you can connect to KIU_Student wifi in your room or bring your own router
 
-Study Rooms
+total of 4 floor
 
-Dormitories have dedicated study rooms available for students.
+3 total dorms, E, G and F
 
+Dormitory Facilities
 
+Students living in the dormitory have access to the following facilities:
 
-Cinema Rooms
+Study Room: A quiet room with tables and chairs for studying.
+Cinema Room: A room with cinema-style seats and a large TV.
+Game Room: A room with tables and chairs for students to relax and socialize.
+Chess Room: A room with multiple chess boards and chess clocks.
+Gym: A gym available for dormitory residents.
+Doctor: A doctor is available every day from 20:00 to 08:00.
+Psychology Service: Psychological support is available for dormitory residents.
 
-Students have access to cinema rooms inside the dormitory.
-
-
-
-Game Rooms
-
-Dormitories include game rooms for entertainment and recreation.
-
-
-
-Chess Rooms
-
-Chess rooms are available for students.
-
-
-
-Gym
-
-Students have access to a gym inside the dormitory.
-
-
-
-Health Services
-
-Dormitory Doctor:
-
-A doctor is available for students living in the dormitory.
-
-
-Dormitory Psychology Service:
-
-A psychology service is available for dormitory residents.
+Dormitory Regulations of LEPL Article 1. General Provisions
+1. The purpose of the Dormitory Regulations of LEPL - Kutaisi International University (hereinafter -
+"University") is to establish the rules and conditions of accommodation in a dormitory, as well as other
+issues related to living in a dormitory.
+2. University dormitory buildings are located in Kutaisi, Youth Avenue, 5th Lane, 4600 Georgia.
+Article 2. Obtaining the Right to Live in a Dormitory
+1. Students with active status and university staff regardless of their citizenship (hereinafter referred to
+as "resident/residents") are entitled to temporary live in a dormitory.
+2. The resident must be fully vaccinated against Covid-19 to obtain the right to live in a dormitory. An
+additional condition for students to live in a dormitory is to be attending university courses non-remotely.
+3. The right to live in a dormitory is established on the basis of Student Housing and Inventory Rental
+Agreement (hereinafter reffered to as “Agreement”) between the university and the resident, after
+submitting the application form for booking a room in a KIU dormitory.
+Article 3. Living in a Dormitory
+1. After concluding an agreement between the university and the resident, the parties are entitled to
+enjoy the rights and fulfill their obligations under the agreement.
+2. Two keys of the dormitory room must be kept with the administrator of the Dormitory. One copy of
+the key will be handed to the resident.
+3. Single and double studio rooms are available at the dormitory. For additional terms, see the Agreement.
+Article 4. Resident’s Obligations
+1. Apart from the obligations set forth in agreement between the university and the resident, the resident
+must fulfil the following rules:
+a) Maintain discipline and not to disturb the peace and security of other residents;
+b) Not to have a pet/bird in a dormitory;
+c) In case of termination of agreement or temporary suspension of the use of dormitory room (for more
+than one month), notify the administration of the dormitory in advance, but not later than 7 (seven) days;
+d) If necessary, move to another room or another dormitory building at the direction of the dormitory
+administration;
+e) Upon entering or walking at the dormitory, present the authorization document if the resident is asked
+to;
+f) Noisy gathering in the room or other dormitory spaces, listening to music loudly and / or action that
+disturbs the peace of other residents are prohibited. Permissible noise level during the day in dormitory
+areas are 35 dB and during the evening and night 30 dB;
+ცვლილება N69, 11/04/2023
+g) From Monday to Thursday, 02:00 - 07:00 am, and on Sundays, 03:00 - 07:00 am, relocating within the
+premises of the campus and/or entering/leaving the dormitories are restricted apart from exceptional
+cases. The resident must notify to the responsible person in the building of the dormitory and request
+special access in advance.
+h) Residents are restricted from entering and leaving the campus territory from the main checkpoint from
+02:00 p.m. to 07:00 a.m. and from the pedestrian gate from 12:00 p.m. to 07:00 a.m., apart from
+exceptional cases. The resident must notify to the responsible person in the building of the dormitory and
+request special access in advance.
+Article 5. Reception of visitors by the Resident
+1. The campus resident is obliged to notify the administration of the dormitory about receiving a visitor
+by E-mail: dorms@kiu.edu.ge indicating the visitor's name, surname, identification number, vehicle serial
+number, at least 24 hours before receiving the visitor/visitors. Notification about weekend visitors must
+be made no later than 6:00 p.m. on the last working day of the week.
+2. A person can be received as a visitor every day from 07:00 AM to 12:00 PM.
+3. One resident can request admission of no more than 3 (three) people as visitors during one day.
+Article 6. Use of common room by the resident
+1. When the resident uses the room of the common space, the resident is obliged to sign the registration
+sheet of the persons responsible for the use of the common space upon receiving the key, and to return
+the received key when the use of the room is finished.
+2. After the resident receives the key to the common space, he is responsible for both property damage
+and disciplinary misconduct in this space.
+Article 7. Resident's responsibility for violation of rules
+In case of violation of the above rule/rules by the resident, the resident will be subject to disciplinary
+responsibility determined by the internal regulatory acts of the university.

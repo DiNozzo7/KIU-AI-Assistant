@@ -55,27 +55,5 @@ A practical session similar to TTF but mainly used for programming courses.
 
 The standard duration was 2 hours.
 
-
-
-ECAS Point
-
-A point required to become an SA starting from the third year.
-
-Without an ECAS point, a student cannot become a Student Assistant.
-
-
-
-ECAS Point Acquisition
-
-ECAS points can be earned by:
-
-- Becoming an STA (Student Tutor) for a course.
-- Participating in Pi Day (only available for first-year students).
-
-
-
-Multiple ECAS Points
-
-Having multiple ECAS points does not provide significant additional benefits.
-
-It may improve a LinkedIn profile by showing tutoring experience.
+Shatli - შატლი
+minibus used for transportation between university and dorms

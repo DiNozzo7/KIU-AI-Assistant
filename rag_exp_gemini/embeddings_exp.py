@@ -9,6 +9,8 @@ client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
 
 def cosine_similarity(a, b):
     return np.dot(a, b) / (np.linalg.norm(a) * np.linalg.norm(b))
+# checks similarities
+
 
 def embedding_list(lst: list):
     embeddings = []
@@ -18,10 +20,11 @@ def embedding_list(lst: list):
             model="gemini-embedding-2",
             contents=text
         )
-
         embeddings.append(result.embeddings[0].values)
 
     return embeddings
+# turns the documents into embedding list
+
 
 documents = [
     "KIU has modern dormitories for students.",
@@ -43,8 +46,15 @@ comp = result.embeddings[0].values
 
 scores = []
 
-for embedding in embeddings:
+for document, embedding in zip(documents, embeddings):
     score = cosine_similarity(comp, embedding)
-    scores.append(score)
+    scores.append((document, score))
 
-print(scores)
+scores = sorted(scores, key=lambda x: x[1], reverse=True)
+
+
+interaction = client.interactions.create(
+    model="gemini-2.5-flash",
+    input=scores[0][0] + "\nQuestion: " + question
+)
+print(interaction.output_text)

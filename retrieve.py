@@ -11,6 +11,11 @@ def cosine_similarity(a, b):
     return np.dot(a, b) / (np.linalg.norm(a) * np.linalg.norm(b))
 
 def retrieve_similar(question: str, json_file: str) -> list:
+    """
+    input should be question the user is asking and .json file name where files and it's embeddings are located
+
+    outputs the list of two of the most similar file names
+    """
     result = client.models.embed_content(
                 model="gemini-embedding-2",
                 contents=question

@@ -4,14 +4,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>KIU Assistant</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <label for="question">Ask a question:</label>
-    <input type="text", id="question", name="question", placeholder="Where is kiu located?">
-    <br> <br>
-    <button type="submit", id="submit_question">Submit</button>
-    <h1 id="answer">answer</h1>
-
+    <div class="container">
+        <label for="question">Ask a question:</label>
+        <input type="text", id="question", name="question", placeholder="Ask about KIU...">
+        <br> <br>
+        <button type="submit", id="submit_question">Submit</button>
+        <h1 class="answer" id="answer"></h1>
+    </div>
     <script src="index.js"></script>
 </body>
 </html>

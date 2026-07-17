@@ -19,8 +19,9 @@ class Question(BaseModel):
 @app.post("/ask")
 def user_question(question: Question):
     question = question.question
-    most_similar = retrieve_similar(question, "embeddings.json")
+    (most_similar, score) = retrieve_similar(question, "embeddings.json")
     answer_of_ai = get_information(question, most_similar)
     return {
-        "answer": answer_of_ai
+        "answer": answer_of_ai,
+        "top_score": score
     }

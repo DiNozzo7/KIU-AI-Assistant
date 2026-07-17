@@ -14,7 +14,7 @@ def retrieve_similar(question: str, json_file: str) -> list:
     """
     input should be question the user is asking and .json file name where files and it's embeddings are located
 
-    outputs the list of two of the most similar file names
+    outputs the list of two of the most similar file names and the top score
     """
     result = client.models.embed_content(
                 model="gemini-embedding-2",
@@ -30,4 +30,4 @@ def retrieve_similar(question: str, json_file: str) -> list:
         scores[key] = cosine_similarity(result, value)
     
     sorted_scores = dict(sorted(scores.items(), key=lambda x: x[1], reverse=True))
-    return list(sorted_scores.keys())[:2]
+    return (list(sorted_scores.keys())[:2], list(sorted_scores.values())[0])

@@ -41,11 +41,11 @@ def get_information(question: str, simillar_files: list) -> str:
             prompt += f.read()
     prompt = prompt + tail + question
 
-    interaction = client.interactions.create(
+    response = client.models.generate_content(
     model="gemini-2.5-flash",
-    input=prompt
+    contents=prompt
     )
 
-    return interaction.output_text
+    return response.text
 
 

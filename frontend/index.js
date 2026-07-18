@@ -4,7 +4,7 @@ document.getElementById("submit_question").onclick = function () {
 
     answerBox.textContent = "Thinking...";
 
-    fetch("http://127.0.0.1:8000/ask", {
+    fetch("https://kiu-ai-assistant.onrender.com/ask", {
         method: "POST",
         headers: {
             "Content-Type": "application/json"

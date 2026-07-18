@@ -15,7 +15,7 @@ document.getElementById("submit_question").onclick = function () {
     })
     .then(response => response.json())
     .then(data => {
-        if (data.top_score < 0.6) {
+        if (data.top_score < 0.5) {
             answerBox.textContent = "I do not have information about that.";
         } else {
             answerBox.textContent = data.answer;

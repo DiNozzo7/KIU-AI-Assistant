@@ -47,12 +47,15 @@ def get_information(question: str, simillar_files: list) -> str:
         with open(f"data/{doc}", "r") as f:
             prompt += f.read()
     prompt = prompt + tail + question
+    try:
+        response = client.models.generate_content(
+        model="gemini-2.5-flash",
+        contents=prompt
+        )
 
-    response = client.models.generate_content(
-    model="gemini-2.5-flash",
-    contents=prompt
-    )
+        return response.text
 
-    return response.text
+    except:
+        return "AI service is temporarily unavailable. Please try again later."
 
 
